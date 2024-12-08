@@ -1,3 +1,13 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Vexa Studio',
+  ogTitle: 'Vexa Studio',
+  description: `Vexa est une agence de graphisme spécialisée dans la conception d'idenditées visuelles ainsi que l'élaboration de contenu graphique pour les PME.`,
+  ogDescription: `Vexa est une agence de graphisme spécialisée dans la conception d'idenditées visuelles ainsi que l'élaboration de contenu graphique pour les PME.`,
+  ogImage: 'https://iili.io/2MFrVOx.png',
+  twitterCard: 'summary_large_image',
+})
+</script>
 <template>
  <div class="min-h-screen bg-cover bg-center bg-[url('https://iili.io/2Gi4y3G.png')]">
 <div class="flex h-screen">
