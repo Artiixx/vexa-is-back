@@ -10,7 +10,7 @@ useSeoMeta({
 })
 </script>
 <template>
-  <div class="min-h-screen bg-cover bg-center bg-[url('https://iili.io/2Gi4y3G.png')]">
+  <div class="min-h-screen bg-cover bg-center bg-[url('/public/assets/vexafond.png')]">
     <div class="flex h-screen">
       <div class="m-auto">
         <img class="h-auto max-w-full hover:skew-y-6 transition my-8" src="/public/assets/logovs.svg" alt="image description">
