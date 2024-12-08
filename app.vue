@@ -6,6 +6,7 @@ useSeoMeta({
   ogDescription: `Vexa est une agence de graphisme spécialisée dans la conception d'idenditées visuelles ainsi que l'élaboration de contenu graphique pour les PME.`,
   ogImage: 'https://iili.io/2MFrVOx.png',
   twitterCard: 'summary_large_image',
+  
 })
 </script>
 <template>
